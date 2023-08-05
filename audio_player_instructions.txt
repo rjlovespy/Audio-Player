@@ -1,0 +1,19 @@
+1. One can add single or multiple audios in
+the playlist via exploring Add menu in the
+menubar.
+2. One can remove single or multiple 
+audios from the playlist via exploring 
+Remove menu in the menubar. 
+3. Eight buttons are placed in a 2x4 grid, 
+where button at (1,1) is the pause button,
+button at (1,2) is the play button,
+button at (1,3) is the stop button,
+button at (1,4) is the unpause button,
+button at (2,1) is the previous audio button,
+button at (2,2) is the skip backward button,
+button at (2,3) is the skip forward button, &
+button at (2,4) is the next audio button.
+4. Current time of the audio, end time of the
+audio, and the selected audio from the play-
+list are shown in the statusbar.
+

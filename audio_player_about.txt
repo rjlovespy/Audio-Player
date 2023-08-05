@@ -1,0 +1,8 @@
+This application software named Audio Player
+[Version 0.1] has been developed by Mr. 
+Rishikesh G. Jha- a Physics graduate from the
+University of Mumbai via St. Xavier's College.
+Being a physicist by the profession, the 
+developer made this application software while
+he was waiting for special round-2 seat 
+allotment result of CCMN counselling 2023.

@@ -1,5 +1,5 @@
 # Audio-Player
-Audio Player [Version 0.1] is an application software that can be run on a desktop. It is one of a kind. Developed using Tkinter, it provides various unique functionalities like display of selected audio's number in the playlist, display of total number of audios present in the playlist, skipping audio by 30 seconds forward/backward, auto removal of corrupted mp3 files from the playlist, etc. which no other pre-existing mp3 players provide.
+Audio Player [Version 0.1] is an application software that can be run on a desktop. It is one of its kind. Developed using Tkinter, it provides various unique functionalities like display of selected audio's number in the playlist, display of total number of audios present in the playlist, skipping audio by 30 seconds forward/backward, auto removal of corrupted mp3 files from the playlist, etc. which no other pre-existing mp3 players provide.
 
 To run this application software in your system:
 1. Download .py, .exe, and .ico files.
